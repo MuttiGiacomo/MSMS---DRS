@@ -3,12 +3,12 @@
 
 Authors:
 @[muttigiacomo](https://github.com/muttigiacomo)
-@[mastrogiuseppematteo],
+@[mastrogiuseppematteo](https://github.com/matteomastrogiuseppe),
 @[riccardoperiotto](https://github.com/riccardoperiotto),
 
-![alt text](https://github.com/MuttiGiacomo/MSMS---DRS/blob/main/media/pull.gif)
-![alt text](https://github.com/MuttiGiacomo/MSMS---DRS/blob/main/media/rocker.gif)
-![alt text](https://github.com/MuttiGiacomo/MSMS---DRS/blob/main/media/pull.gif)
+![Alt Text](https://github.com/MuttiGiacomo/MSMS---DRS/blob/main/media/pull.gif =250x250)
+![Alt Text](https://github.com/MuttiGiacomo/MSMS---DRS/blob/main/media/rocker.gif =250x250)
+![Alt Text](https://github.com/MuttiGiacomo/MSMS---DRS/blob/main/media/pull.gif =250x250)
 
 This project focuses on the mechanical analysis and optimization of 3 different Formula 1 Drag Reduction System mechanisms. 
 
